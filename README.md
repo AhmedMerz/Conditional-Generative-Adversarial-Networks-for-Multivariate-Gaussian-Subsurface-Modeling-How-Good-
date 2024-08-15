@@ -1,7 +1,6 @@
 # Conditional Generative Adversarial Networks for Multivariate Gaussian Subsurface Modeling: How Good They Really Are?
-Ahmed Merzoug and Michael Pyrcz
-a Hildebrand Department of Petroleum and Geosystem Engineering, Cockrell School of Engineering, The University of Texas at Austin, U.S.A
-b Department of Earth and Planetary Sciences, Jackson School of Geosciences, The University of Texas at Austin, U.S.A
+
+Merzoug, A., & Pyrcz, M. J. (2024). Conditional Generative Adversarial Networks for Multivariate Gaussian Subsurface Modeling: How Good They Really Are?. https://doi.org/10.21203/rs.3.rs-4219533/v1
 
 Abstract
 Generative adversarial networks (GANs) are increasingly recognized for their potential in subsurface modeling and uncertainty quantification, thanks to their capability to learn complex geological patterns from spatial training images and their ability to perform rapid local data conditioning in a lower-dimensional latent space compared to the full-dimensional space of the images. However, the performance of these algorithms often receives acceptance based primarily on visual inspection or limited qualitative assessment. To address this, we propose a minimum acceptance criteria workflow designed to quantitatively assess and verify the adequacy of GAN-generated subsurface models. This evaluation is carried out through three key metrics: (1) reproduction of data distribution, (2) reproduction of spatial continuity, and (3) local data conditioning. 
